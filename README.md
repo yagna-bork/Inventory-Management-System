@@ -26,8 +26,6 @@ A point of sale and inventory management system for convenience stores
 This so only admin can view important store performance metrics like total sales, that you wouldn't want staff to be seeing
 
 ![SS](/img/3.png)
-(https://octodex.github.com/images/yaktocat.png)
-(https://ibb.co/Y2jdSZ4)
 
 As an admin you can make a new, restricted, employee account as you please!
 
