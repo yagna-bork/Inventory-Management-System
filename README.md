@@ -1,6 +1,6 @@
 # IMS
 
-A point of sale and inventory management system for stores
+A point of sale and inventory management system for convenience stores
 
 # How do I get it running?
 ## Dependencies
@@ -57,3 +57,10 @@ Creating new items...
 ...error validation throughout the application...
 
 ![SS2](/img/8.png) ![SS2](/img/9.png)
+
+## Other features my client found the most useful
+
+> The most useful custom made feature for me was the list of products that will sell out soon.
+> I also liked having the ability to see when item's run out of stock on the day they do
+> That way in the morning before I open my store I can scroll through the list and get rid of items
+> if it need to.
