@@ -36,6 +36,8 @@ The app provides you with useful performance metrics like the fastest and slowes
 
 ![SS2](/img/1.png)
 
+...the items you can select...
+
 ![SS2](/img/2.png)
 
 ...or the ability to manually edit product entries incase you got the name wrong!
@@ -44,8 +46,14 @@ The app provides you with useful performance metrics like the fastest and slowes
 
 ## A user friendly interface to help easily integrate new staff
 
+Creating new items...
+
 ![SS2](/img/6.png)
 
+...till mode for face-to-face payments...
+
 ![SS2](/img/7.png)
+
+...error validation throughout the application...
 
 ![SS2](/img/8.png) ![SS2](/img/9.png)
