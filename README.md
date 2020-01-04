@@ -11,7 +11,7 @@ A point of sale and inventory management system for stores
 * Oxyplot for WPF
 
 ## Steps
-Just clone the repository and run the .xls file!
+1. Just clone the repository and run the .xls file!
 
 # What can it do?
 ## Provides separate admin and staff accounts
