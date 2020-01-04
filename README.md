@@ -18,7 +18,7 @@ A point of sale and inventory management system for stores
 ## Provides separate admin and staff accounts
 This so only admin can view important store performance metrics like total sales, that you wouldn't want staff to be seeing
 
-![Image of Yaktocat](/img/1.png)
+![SS](/img/3.png)
 (https://octodex.github.com/images/yaktocat.png)
 (https://ibb.co/Y2jdSZ4)
 
@@ -29,29 +29,23 @@ The best part is that you can choose what exactly an employee account can do fro
 * Editing database tables (i.e. changing prices or names)
 * Analytics
 
-![Screenshot1 making a new staff account]
-(https://ibb.co/B6Wm25T)
+![SS2](/img/4.png)
 
 ## Analytics and data control
 The app provides you with useful performance metrics like the fastest and slowest selling stock...
 
-![fastestslowestsellingstockss]
-(https://ibb.co/7CRW1ZF)
+![SS2](/img/1.png)
 
-![Itemselection]
-(https://ibb.co/H45T6rj)
+![SS2](/img/2.png)
 
 ...or the ability to manually edit product entries incase you got the name wrong!
 
-![productedit]
-(https://ibb.co/GvcbvMH)
+![SS2](/img/5.png)
 
 ## A user friendly interface to help easily integrate new staff
-![adding-new-item-ss]
-(https://ibb.co/QC551FS)
 
-![till-mode]
-(https://ibb.co/10KBk1X)
+![SS2](/img/6.png)
 
-![login-screen]
-(https://ibb.co/TKn974R)
+![SS2](/img/7.png)
+
+![SS2](/img/8.png) ![SS2](/img/9.png)
