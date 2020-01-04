@@ -18,7 +18,7 @@ A point of sale and inventory management system for stores
 ## Provides separate admin and staff accounts
 This so only admin can view important store performance metrics like total sales, that you wouldn't want staff to be seeing
 
-![Screenshot1 login] (/img/1.png)
+![Image of Yaktocat](/img/1.png)
 (https://octodex.github.com/images/yaktocat.png)
 (https://ibb.co/Y2jdSZ4)
 
